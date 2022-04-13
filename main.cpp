@@ -3,7 +3,7 @@
 #include<functional>
 using namespace std;
 
-//ex1 linear system n = 2, f(t)!=0
+//ex1 linear system n = 2, f(t)=0
 constexpr int n = 2;
 double n0 = 0.1;//y(0.5)=n0=0.1//расчёт в двух точках
 double n1 = 0.5;//y(0.5)=n1=0.5
